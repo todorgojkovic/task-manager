@@ -161,7 +161,7 @@ def statistics():
     print(f"Total tasks: {total}")
     print(f"Completed: {completed}")
     print(f"Remaining: {remaining}")
-    print("----------------------")
+    print("--------------------")
 
 while True:
     show_menu()
